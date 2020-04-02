@@ -1,0 +1,2 @@
+flag[y|n],Id3tag_artist,Id3tag_album,Id3tag_title,english,japanese,output,loop_count
+y,父さんの英語,part1,0001,begin,始める,./mp3/kihon78/0001.mp3,1
